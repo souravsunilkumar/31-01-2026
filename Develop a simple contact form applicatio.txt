@@ -1,0 +1,2 @@
+Develop a simple contact form application with input fields for Name, Email, and Message. 
+The submitted data should be securely stored in a database.
